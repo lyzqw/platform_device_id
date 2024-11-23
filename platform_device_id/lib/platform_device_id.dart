@@ -30,4 +30,7 @@ class PlatformDeviceId {
     }
     return deviceId;
   }
+  static String loge(){
+    return "11";
+  }
 }
